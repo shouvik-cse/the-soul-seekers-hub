@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Lenovo IdeaPad Slim 3",
+    "model": "15ARP10",
+    "spec": "Ryzen 5 7535HS · 8GB RAM · 512GB SSD · 15.3-inch WUXGA",
+    "price": 90000,
+    "retailer": "TechLand BD",
+    "url": "https://www.techlandbd.com/shop-laptop-computer/brand-laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "HP 15",
+    "model": "fd0841TU",
+    "spec": "Core i3-1315U · 8GB RAM · 512GB SSD · 15.6-inch FHD",
+    "price": 75000,
+    "retailer": "TechLand BD",
+    "url": "https://www.techlandbd.com/shop-laptop-computer/brand-laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3",
+    "model": "14ARP10",
+    "spec": "Ryzen 5 7535HS · 8GB RAM · 512GB SSD · 14-inch WUXGA",
+    "price": 85000,
+    "retailer": "TechLand BD",
+    "url": "https://www.techlandbd.com/shop-laptop-computer/brand-laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Tecno MEGABOOK K15SDA",
+    "model": "K15SDA",
+    "spec": "Ryzen 5 7430U · 16GB RAM · 512GB SSD · 15.6-inch FHD",
+    "price": 68999,
+    "retailer": "TechLand BD",
+    "url": "https://www.techlandbd.com/shop-laptop-computer/brand-laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Lenovo LOQ",
+    "model": "15IAX9E",
+    "spec": "Core i5-12450HX · RTX 2050 · 12GB RAM · 512GB SSD · 15.6-inch FHD 144Hz",
+    "price": 103900,
+    "retailer": "TechLand BD",
+    "url": "https://www.techlandbd.com/shop-laptop-computer/brand-laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Acer Aspire Lite",
+    "model": "AL15-41",
+    "spec": "Ryzen 5 7430U · 16GB RAM · 512GB SSD · 15.6-inch FHD",
+    "price": 79000,
+    "retailer": "TechLand BD",
+    "url": "https://www.techlandbd.com/shop-laptop-computer/brand-laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "ASUS TUF Gaming A15",
+    "model": "FA506NCG",
+    "spec": "Ryzen 7 7445HS · RTX 3050 · 8GB RAM · 512GB SSD · 15.6-inch FHD",
+    "price": 134000,
+    "retailer": "TechLand BD",
+    "url": "https://www.techlandbd.com/shop-laptop-computer/brand-laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Lenovo LOQ",
+    "model": "15ARP10E",
+    "spec": "Ryzen 5 7535HS · RTX 3050 · 16GB RAM · 512GB SSD · 15.6-inch 144Hz",
+    "price": 127500,
+    "retailer": "OneTech",
+    "url": "https://1tech.com.bd/products?category=all-brand-laptop",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "HP Victus 15",
+    "model": "15-FB3010NE",
+    "spec": "Ryzen 7 7445HS · RTX 3050 6GB · 16GB RAM · 512GB SSD",
+    "price": 124500,
+    "retailer": "OneTech",
+    "url": "https://1tech.com.bd/products?category=all-brand-laptop",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "ASUS TUF A16",
+    "model": "FA607NUQ",
+    "spec": "Ryzen 7 170 · RTX 4050 · 16GB RAM · 512GB SSD · 16-inch 144Hz",
+    "price": 152000,
+    "retailer": "OneTech",
+    "url": "https://1tech.com.bd/products?category=all-brand-laptop",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Acer Nitro V15",
+    "model": "ANV15-52-57BB",
+    "spec": "Core i5-13420H · RTX 5050 · 16GB RAM · 512GB SSD",
+    "price": 137900,
+    "retailer": "Computer Mania",
+    "url": "https://computermania.com.bd/product-category/laptop/",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "HP Victus 15",
+    "model": "15-fa2013dx",
+    "spec": "Core i5-13420H · RTX 3050 · 8GB RAM · 512GB SSD",
+    "price": 110900,
+    "retailer": "Vertech",
+    "url": "https://www.vertech.com.bd/category/laptops",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Lenovo LOQ",
+    "model": "15AHP10",
+    "spec": "Ryzen 5 220 · RTX 5050 8GB · 16GB RAM · 512GB SSD · 15.6-inch 144Hz",
+    "price": 167000,
+    "retailer": "Speed Technology",
+    "url": "https://www.speedtech.com.bd/laptop?limit=50&order=DESC&sort=p.price",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "HP 15",
+    "model": "fd0909TU",
+    "spec": "Core 5 120U · 8GB RAM · 512GB SSD · 15.6-inch FHD",
+    "price": 95000,
+    "retailer": "Speed Technology",
+    "url": "https://www.speedtech.com.bd/laptop?limit=50&order=DESC&sort=p.price",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "MSI Modern 15",
+    "model": "B13M",
+    "spec": "Core i7-1355U · 16GB RAM · 512GB SSD · 15.6-inch FHD",
+    "price": 93000,
+    "retailer": "Computer Village",
+    "url": "https://www.computervillage.com.bd/laptop-notebook",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3",
+    "model": "15IRU8",
+    "spec": "Core i3-1315U · 8GB RAM · 512GB SSD · 15.6-inch FHD",
+    "price": 67000,
+    "retailer": "Computer Village",
+    "url": "https://www.computervillage.com.bd/laptop-notebook",
+    "checked": "Retailer catalogue snapshot · verify exact configuration, stock and price before purchase"
+  }
+]
